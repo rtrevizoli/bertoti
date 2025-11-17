@@ -1,50 +1,190 @@
-# Coloque seu nome aqui
+# Rafael Trevizoli
 
-## Introdução
+## Introduction
+I am a software engineer with more than 10 years of experience building solutions across multiple industries, including automotive, aerospace, retail, industrial automation, and robotics. I am passionate about solving real-world problems through software, designing scalable architectures, and leading development teams.
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+I see myself as a lifelong learner and value communication, collaboration, and continuous improvement.
 
-## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+## Contact
+* [GIT](https://github.com/rtrevizoli)
+* [LinkedIn](https://www.linkedin.com/in/rafael-trevizoli/)
 
-## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+---
 
+## Core Skills
+- **Backend Development (Java, Python, Node.js):** REST APIs, microservices, testing, optimization, system integration.
+- **Frontend Development (Vue, React):** Component architecture, SPA development, UX/UI best practices.
+- **DevOps & Infrastructure:** Docker, Docker Compose, CI/CD pipelines, automated deployments, Linux servers.
+- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB — modeling, query optimization, migrations.
+- **Cloud & Automation:** AWS, Azure, Linux environments, pipelines, monitoring.
+- **Computer Vision & Robotics:** Image processing, visual localization, embedded systems for automation.
 
-## Meus Projetos
+---
 
-### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+## Projects
 
-[GIT](https://www.git.com)
+### 2025-2 — **Athos**
+**Repository:** [Athos](https://github.com/AthosFatecSjc/Athos)
 
-#### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+Athos is an intelligent fitness and training analysis platform. It integrates with sensors, processes training data, and provides dashboards and progress tracking.
 
-#### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+#### Technologies Used
+- **Python (FastAPI)** – Lightweight, high-performance backend.
+- **PostgreSQL** – Efficient data storage.
+- **Docker Compose** – Full environment orchestration.
+
+#### Personal Contributions
+- Architecture of the core backend modules.
+- Implementation of endpoints, authentication, and database integration.
+- Development of reusable UI components.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+- FastAPI – High-performance API development.
+- PostgreSQL – Advanced data modeling.
+- Docker – Infrastructure setup and orchestration.
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+- Communication – Alignment across multiple teams.
+- Systems thinking – Integrating multiple technologies into a cohesive solution.
 
-### Em 2022-1
-Mesmo formato
+<div align="center">
 
-### Em 2022-2
-Mesmo formato
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AthosFatecSjc&repo=Athos)](https://github.com/AthosFatecSjc/Athos)
 
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
+</div>
 
 
+---
 
+### 2025-1 — **GeoHood**
+**Repository:** [4_GeoHood](https://github.com/FatecCoderHood/4_GeoHood)
 
+A geospatial processing platform built to import GeoJSON data, parse geographic structures, and store them in Oracle Spatial. The system also supports geographic queries and map-based visualization.
 
+#### Technologies Used
+- **Java + Spring Boot** – Robust backend.
+- **GeoTools / JTS** – Geometry processing.
+- **Oracle Spatial** – Geographic database handling.
+- **Vue 3 + TypeScript** – Modern and modular frontend.
 
+#### Personal Contributions
+- Full GeoJSON parser for geographic object conversion.
+- Development of import, query, and visualization APIs.
+- Creation of spatial data models.
+
+#### Hard Skills
+- Geoprocessing in Java.
+- Oracle Spatial integration.
+- Fullstack development with Vue.
+
+#### Soft Skills
+- Fast learning – Adapting to complex geolocation technologies.
+- Technical problem-solving – Addressing spatial computation challenges.
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FatecCoderHood&repo=4_GeoHood)](https://github.com/FatecCoderHood/4_GeoHood)
+
+</div>
+
+---
+
+### 2024-2 — **GSW_API**
+**Repository:** [GWS_API](https://github.com/FatecCoderHood/GSW_API)
+
+An API created for a news portal, supporting CRUD operations, tag management, and a many-to-many relationship between news articles and tags. The system was designed to be stable, scalable, and integration-friendly.
+
+#### Technologies Used
+- **Spring Boot 3 / Java 21** – Modern and performant backend.
+- **JPA/Hibernate** – Object-relational mapping.
+- **MySQL** – Structured data persistence.
+- **Docker** – Containerized development.
+
+#### Personal Contributions
+- Full API architecture and implementation.
+- Development of the many-to-many structure between news and tags.
+- Implementation of REST endpoints and validation layers.
+
+#### Hard Skills
+- Java & Spring – Advanced API development.
+- JPA – Efficient entity mapping and optimization.
+
+#### Soft Skills
+- Team collaboration – Joint decisions on system architecture.
+- Documentation – Clear specifications for frontend integration.
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FatecCoderHood&repo=GSW_API)](https://github.com/FatecCoderHood/GSW_API)
+
+</div>
+
+---
+
+### 2022-1 — **Dynamics**
+**Repository:** [Dynamics](https://github.com/TudoDigital/Dynamics)
+
+A business-focused project developed for a partner company. The goal was to create a management system capable of handling internal operational processes. The solution required efficient data management, secure APIs, and a responsive interface.
+
+#### Technologies Used
+- **Java + Spring Boot** – Modular and structured backend.
+- **MySQL** – Data storage and optimized queries.
+- **Vue.js** – Responsive and dynamic interface.
+- **Docker** – Consistent and reproducible development environment.
+
+#### Personal Contributions
+- Development of primary REST APIs.
+- Implementation of authentication, authorization, and business flows.
+- Integration between frontend and backend.
+
+#### Hard Skills
+- Spring Boot – Building secure and scalable APIs.
+- Vue.js – Componentized UI development.
+- Database modeling – Complex relational modeling.
+
+#### Soft Skills
+- Leadership – Guiding technical decisions and team coordination.
+- Problem-solving – Translating business rules into technical workflows.
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TudoDigital&repo=Dynamics)](https://github.com/TudoDigital/Dynamics)
+
+</div>
+
+---
+
+### 2021-2 — **Renegados**
+**Repository:** [Renegados](https://github.com/DDGGLMVR/Renegados)
+
+A digital game developed as part of an academic project. The work involved implementing game mechanics, managing assets, and building a functional and engaging experience. The project also emphasized teamwork, source control, and structured development practices.
+
+#### Technologies Used
+- **Unity** – Game engine for scenes, physics, and interactions.
+- **C#** – Game logic, scripts, and system integration.
+- **Git/GitHub** – Collaboration and version control.
+
+#### Personal Contributions
+- Development of core gameplay mechanics.
+- Implementation of character movement, collisions, and controls.
+- Coordination of Git workflow and issue management.
+
+#### Hard Skills
+- C# – Autonomous development of complex game scripts.
+- Unity – Scene building, events, and prefabs.
+- Git – Collaborative workflow management.
+
+#### Soft Skills
+- Communication – Coordination between programmers, artists, and designers.
+- Organization – Task prioritization and sprint planning.
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDGGLMVR&repo=Renegados)](https://github.com/DDGGLMVR/Renegados)
+
+</div>
+
+---
+
+## Final Remarks
+My goal is to continue building impactful solutions by leveraging technology to transform businesses, simplify processes, and create intelligent systems. I am always looking for new challenges and opportunities to learn and grow.

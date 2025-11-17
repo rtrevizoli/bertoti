@@ -13,11 +13,22 @@ I see myself as a lifelong learner and value communication, collaboration, and c
 
 ## Core Skills
 - **Backend Development (Java, Python, Node.js):** REST APIs, microservices, testing, optimization, system integration.
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,nodejs,django"><br></p>
+
 - **Frontend Development (Vue, React):** Component architecture, SPA development, UX/UI best practices.
+<p align="center"><img src="https://skillicons.dev/icons?i=vue,vuetify,react,htmx,figma"><br></p>  
+
 - **DevOps & Infrastructure:** Docker, Docker Compose, CI/CD pipelines, automated deployments, Linux servers.
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,linux"><br></p>
+
 - **Databases:** MySQL, PostgreSQL, Oracle, MongoDB — modeling, query optimization, migrations.
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongo"><br></p>
+
 - **Cloud & Automation:** AWS, Azure, Linux environments, pipelines, monitoring.
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,azure,googlecloud"><br></p>
+
 - **Computer Vision & Robotics:** Image processing, visual localization, embedded systems for automation.
+<p align="center"><img src="https://skillicons.dev/icons?i=opencv,tensorflow,ros"><br></p>
 
 ---
 

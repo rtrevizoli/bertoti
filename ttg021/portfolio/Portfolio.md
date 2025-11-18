@@ -40,7 +40,7 @@ I see myself as a lifelong learner and value communication, collaboration, and c
 Athos is an intelligent fitness and training analysis platform. It integrates with sensors, processes training data, and provides dashboards and progress tracking.
 
 #### Technologies Used
-- **Python (FastAPI)** – Lightweight, high-performance backend.
+- **Python (Django)** – Robust, full-featured framework for building scalable, secure web applications.
 - **PostgreSQL** – Efficient data storage.
 - **Docker Compose** – Full environment orchestration.
 
@@ -50,7 +50,7 @@ Athos is an intelligent fitness and training analysis platform. It integrates wi
 - Development of reusable UI components.
 
 #### Hard Skills
-- FastAPI – High-performance API development.
+- Django – Robust and High-performance API development.
 - PostgreSQL – Advanced data modeling.
 - Docker – Infrastructure setup and orchestration.
 

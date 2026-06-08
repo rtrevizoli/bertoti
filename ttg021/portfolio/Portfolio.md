@@ -34,8 +34,8 @@ I see myself as a lifelong learner and value communication, collaboration, and c
 
 ## Projects
 
-### 2025-2 — **Athos**
-**Repository:** [Athos](https://github.com/AthosFatecSjc/Athos)
+### 2025-2 — **Athos Insight**
+**Repository:** [Athos Insight](https://github.com/AthosFatecSjc/Athos_Insight)
 
 Athos is an intelligent fitness and training analysis platform. It integrates with sensors, processes training data, and provides dashboards and progress tracking.
 
@@ -60,7 +60,7 @@ Athos is an intelligent fitness and training analysis platform. It integrates wi
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AthosFatecSjc&repo=Athos)](https://github.com/AthosFatecSjc/Athos)
+[![ReadMe Card](https://opengraph.githubassets.com/1/AthosFatecSjc/Athos_Insight)](https://github.com/AthosFatecSjc/Athos_Insight)
 
 </div>
 
@@ -94,7 +94,7 @@ A geospatial processing platform built to import GeoJSON data, parse geographic 
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FatecCoderHood&repo=4_GeoHood)](https://github.com/FatecCoderHood/4_GeoHood)
+[![ReadMe Card](https://opengraph.githubassets.com/1/FatecCoderHood/4_GeoHood)](https://github.com/FatecCoderHood/4_GeoHood)
 
 </div>
 
@@ -126,7 +126,7 @@ An API created for a news portal, supporting CRUD operations, tag management, an
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FatecCoderHood&repo=GSW_API)](https://github.com/FatecCoderHood/GSW_API)
+[![ReadMe Card](https://opengraph.githubassets.com/1/FatecCoderHood/GSW_API)](https://github.com/FatecCoderHood/GSW_API)
 
 </div>
 
@@ -159,7 +159,7 @@ A business-focused project developed for a partner company. The goal was to crea
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TudoDigital&repo=Dynamics)](https://github.com/TudoDigital/Dynamics)
+[![ReadMe Card](https://opengraph.githubassets.com/1/TudoDigital/Dynamics)](https://github.com/TudoDigital/Dynamics)
 
 </div>
 
@@ -191,7 +191,7 @@ A digital game developed as part of an academic project. The work involved imple
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DDGGLMVR&repo=Renegados)](https://github.com/DDGGLMVR/Renegados)
+[![ReadMe Card](https://opengraph.githubassets.com/1/DDGGLMVR/Renegados)](https://github.com/DDGGLMVR/Renegados)
 
 </div>
 
